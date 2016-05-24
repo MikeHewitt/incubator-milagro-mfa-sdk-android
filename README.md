@@ -13,10 +13,10 @@
 1. Import the project - File-> Open -> \<mpin-sdk-android\>
 1. From Gradle Tool View select :mpinsdk -> Tasks -> build -> build
 1. The assembled aars will be located in \<mpin-sdk-android\>/mpinsdk/build/outputs/aar
- 
+
 #### From Command Line
 1. Navigate to \<mpin-sdk-android\>
 1. Execute ./gradlew build
 1. The assembled aars will be located in \<mpin-sdk-android\>/mpinsdk/build/outputs/aar
 
-For further details, see [M-Pin Mobile SDK for Android Online Help](http://docs.miracl.com/m-pin-mobile-sdk-for-android)
+For further details, please see the [Milagro Documentation](http://docs.milagro.io)
